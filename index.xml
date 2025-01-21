@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>B2cat</title>
+    <link>https://bg1188.github.io/</link>
+    <description>Recent content on B2cat</description>
+    <image>
+      <title>B2cat</title>
+      <url>https://bg1188.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://bg1188.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://bg1188.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bing设置转化追踪 - Shopify</title>
+      <link>https://bg1188.github.io/posts/bing%E8%AE%BE%E7%BD%AE%E8%BD%AC%E5%8C%96%E8%BF%BD%E8%B8%AA-shopify/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/bing%E8%AE%BE%E7%BD%AE%E8%BD%AC%E5%8C%96%E8%BF%BD%E8%B8%AA-shopify/</guid>
+      <description>&lt;p&gt;在Bing账户打开工具 - UET 标签&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/98.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;新建一个UET标签&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;标签名称随便写，然后点击存储并移到下一步&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-2.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;选择由您自行安装标签，点击下一步&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-3.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;继续点击下一步&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-4.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-4.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;最后点击完成&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-5.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-5.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;复制并保存&lt;strong&gt;标记识别码&lt;/strong&gt;，留作备用&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-6.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-6.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;接下来创建事件，打开工具 - 成交目标&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-7.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-7.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;选择建立&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-8.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-8.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;选择网站，点击下一步&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-9.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-9.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;目标类别选择购买，目标类型选择事件，点击下一步&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-10.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-10.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;名称写purchase，收入选择成交动作的价值可能会不同，然后点击下一步&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-11.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-11.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;默认选择否，点存储并移到下一步&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-12.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-12.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;选择由您自行安装标签，点击下一步&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-13.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-13.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;继续点击下一步&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-14.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-14.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;选择手动安装，点击下一步&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-15.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-15.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;选择在发生线上动作时追踪事件，其他默认就行，点击存储并移到下一步&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-16.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-16.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;最后点击完成&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-17.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-17.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;广告账户端设置完毕，接下来设置网站端，把UET标签通过插件安装到shopify网站&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;打开shopify网站后台设置，选择应用和销售渠道，然后打开Shopify App Store&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/Image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;搜索并安装One Pixel应用&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-18.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-18.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;打开One Pixel应用，选择Other Platforms&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-19.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-19.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;选择Microsoft，然后点击右上角Add New Pixel&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-20.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-20.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Name this tag随便写就好，Tag ID填写之前复制保存的&lt;strong&gt;标记识别码&lt;/strong&gt; ，最后点击保存&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-21.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/231/-21.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;到这里Bing的转化追踪安装完毕，接下来可以在广告账户发布广告了&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BM添加管理员</title>
+      <link>https://bg1188.github.io/posts/bm%E6%B7%BB%E5%8A%A0%E7%AE%A1%E7%90%86%E5%91%98/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/bm%E6%B7%BB%E5%8A%A0%E7%AE%A1%E7%90%86%E5%91%98/</guid>
+      <description>&lt;p&gt;打开BM设置，选择个人用户，点击添加&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/121/98.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;输入被邀请用户的邮箱，然后点击继续；&lt;strong&gt;注意：被邀请的个人号需要提前开启双重验证&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/121/-1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;然后被邀请用户的邮箱会收到邀请邮件，在已登录个人号的浏览器，打开邮件里面的邀请链接，按照提醒进入BM&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BM绑定主页</title>
+      <link>https://bg1188.github.io/posts/bm%E7%BB%91%E5%AE%9A%E4%B8%BB%E9%A1%B5/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/bm%E7%BB%91%E5%AE%9A%E4%B8%BB%E9%A1%B5/</guid>
+      <description>&lt;p&gt;打开BM设置，选择公共主页，然后点击添加（操作的个人号必须同时是BM管理员和主页管理员，才能操作绑定主页）&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/118/98.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/118/-1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;输入框输入主页链接，选择主页，点击添加完成绑定&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-2.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/118/-2.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Facebook Pixel关联广告账户</title>
+      <link>https://bg1188.github.io/posts/facebook_pixel%E5%85%B3%E8%81%94%E5%B9%BF%E5%91%8A%E8%B4%A6%E6%88%B7/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/facebook_pixel%E5%85%B3%E8%81%94%E5%B9%BF%E5%91%8A%E8%B4%A6%E6%88%B7/</guid>
+      <description>&lt;p&gt;打开BM设置，选择自己的Pixel，点击添加资产&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/114/98.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;选择广告账户，然后点击添加，完成关联&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/114/-1.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Facebook Pixel创建与安装 - Shopify建站最新版</title>
+      <link>https://bg1188.github.io/posts/facebook_pixel%E5%88%9B%E5%BB%BA%E4%B8%8E%E5%AE%89%E8%A3%85-shopify%E5%BB%BA%E7%AB%99%E6%9C%80%E6%96%B0%E7%89%88/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/facebook_pixel%E5%88%9B%E5%BB%BA%E4%B8%8E%E5%AE%89%E8%A3%85-shopify%E5%BB%BA%E7%AB%99%E6%9C%80%E6%96%B0%E7%89%88/</guid>
+      <description>&lt;p&gt;1、打开shopify在线商店 - 偏好设置，选择设置Facebook&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/268/1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2、安装Facebook &amp;amp; Instagram（如果已安装可以跳过此步骤）&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;2.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/268/2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;3.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/268/3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;注意 ：如果安装过程出现 &lt;strong&gt;不兼容�&lt;/strong&gt;�的情况，可以按照下面截图修改商店账单地址为美国，然后再次尝试安装Facebook &amp;amp; Instagram （&lt;strong&gt;如果正常安装可以忽略此处&lt;/strong&gt;）&lt;/p&gt;
+&lt;p&gt;安装成功之后可以把账单地址恢复成之前的设置&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;4.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/268/4.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;3、进入Facebook &amp;amp; Instagram，选择&lt;strong&gt;仅限广告&lt;/strong&gt;下边的开始选项&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;6.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/268/6.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;4、绑定Facebook个人号（此个人号必须是BM的管理员）&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;7.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/268/7.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;8.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/268/8.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;5、绑定BM（BM选择自己正在使用的BM 广告账户和主页都在此BM中）&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;9.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/268/9.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;6、创建Facebook Pixel&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;10.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/268/10.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;11.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/268/11.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;12.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/268/12.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;7、同意协议完成创建&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;13.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/268/13.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;14.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/268/14.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;8、检查Pixel 确认设置成功&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;15.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/268/15.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;16.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/268/16.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;9、进入BM设置 - 选择刚刚创建的Pixel - 选择分配资产&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;18.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/268/18.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;选择要绑的广告账户（要在哪个广告账户使用此Pixel，就选择哪个广告账户），最后点击添加&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;17.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/268/17.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;到此Pixel设置全部完成，可以开始投放广告了&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Facebook主页绑定INS</title>
+      <link>https://bg1188.github.io/posts/facebook%E4%B8%BB%E9%A1%B5%E7%BB%91%E5%AE%9Ains/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/facebook%E4%B8%BB%E9%A1%B5%E7%BB%91%E5%AE%9Ains/</guid>
+      <description>&lt;p&gt;切换成主页身份，打开主页设置&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/111/98.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/111/-1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-2.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/111/-2.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Facebook创建个人号</title>
+      <link>https://bg1188.github.io/posts/facebook%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8F%B7/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/facebook%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8F%B7/</guid>
+      <description>&lt;p&gt;打开以下链接， 选择新建账户&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/&#34;&gt;https://www.facebook.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/136/98.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;填写信息完成注册：建议用Gmail邮箱注册&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/136/-1.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Facebook创建主页</title>
+      <link>https://bg1188.github.io/posts/facebook%E5%88%9B%E5%BB%BA%E4%B8%BB%E9%A1%B5/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/facebook%E5%88%9B%E5%BB%BA%E4%B8%BB%E9%A1%B5/</guid>
+      <description>&lt;p&gt;打开以下链接，填入主页名称和类别，点击创建公共主页&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/pages/creation&#34;&gt;https://www.facebook.com/pages/creation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/133/98.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意：如果提示你近期创建公共主页数量过多；需要更换个人号尝试创建主页&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Facebook开启双重验证</title>
+      <link>https://bg1188.github.io/posts/facebook%E5%BC%80%E5%90%AF%E5%8F%8C%E9%87%8D%E9%AA%8C%E8%AF%81/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/facebook%E5%BC%80%E5%90%AF%E5%8F%8C%E9%87%8D%E9%AA%8C%E8%AF%81/</guid>
+      <description>&lt;p&gt;在登录个人号的浏览器打开以下链接：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/security/2fac/settings/&#34;&gt;https://www.facebook.com/security/2fac/settings/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/103/98.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/103/-1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;手机下载谷歌验证器扫描上图二维码，完成双重验证设置&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;微信图片_20230605121316.jpg&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/103/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230605121316.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GA4添加管理员教程</title>
+      <link>https://bg1188.github.io/posts/ga4%E6%B7%BB%E5%8A%A0%E7%AE%A1%E7%90%86%E5%91%98%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/ga4%E6%B7%BB%E5%8A%A0%E7%AE%A1%E7%90%86%E5%91%98%E6%95%99%E7%A8%8B/</guid>
+      <description>&lt;p&gt;打开GA4首页面板选择左下角设置&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/237/98.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;选择账号访问权限管理&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/237/-1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;点击右上角加号，点击添加用户&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-2.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/237/-2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;输入电子邮箱地址，权限选择管理员，最后点击右上角添加按钮&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-3.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/237/-3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;被邀请人邮箱会收到邀请邮件，点击邀请链接，完成授权&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google Ads 关联 Google Analytics 4 并导入转化事件</title>
+      <link>https://bg1188.github.io/posts/google_ads_%E5%85%B3%E8%81%94_google_analytics_4_%E5%B9%B6%E5%AF%BC%E5%85%A5%E8%BD%AC%E5%8C%96%E4%BA%8B%E4%BB%B6/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/google_ads_%E5%85%B3%E8%81%94_google_analytics_4_%E5%B9%B6%E5%AF%BC%E5%85%A5%E8%BD%AC%E5%8C%96%E4%BA%8B%E4%BB%B6/</guid>
+      <description>&lt;p&gt;1、进入谷歌广告账户，打开左侧菜单 工具 - 数据管理器，然后点击关联产品&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/308/1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2、选择要关联的产品&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;2.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/308/2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;3、选择要关联的 Google Analytics 4 账户，然后点击下一步&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;3.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/308/3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;开启数据共享，点击关联&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;4.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/308/4.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;4、确认关联，然后点击下方完成&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;5.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/308/5.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;5、导入转化事件，打开左侧菜单 目标 - 转化 - 摘要，然后点击新建转化操作&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;6.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/308/6.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;6、选择导入 Google Analytics 4 中网站数据源&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;7.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/308/7.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;7、选择要导入的转化事件，然后导入并继续，最后点击完成&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;8.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/308/8.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;9.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/308/9.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;8、确认导入成功&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;10.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/308/10.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shopify 关联 Google Analytics 4</title>
+      <link>https://bg1188.github.io/posts/shopify_%E5%85%B3%E8%81%94_google_analytics_4/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/shopify_%E5%85%B3%E8%81%94_google_analytics_4/</guid>
+      <description>&lt;p&gt;1、打开shopify在线商店 – 偏好设置，选择设置Google&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;6.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/296/6.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2、选择安装Google &amp;amp; YouTube&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;4.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/296/4.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;3、选择关联Google 账号&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;3.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/296/3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;选择登录Gmail账号（&lt;strong&gt;此账号必须有�&lt;/strong&gt;�&lt;strong&gt;Google Analytics 4 的管理员权限&lt;/strong&gt;）&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/296/1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;4、选择 Google Analytics 4 下面的开始按钮&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;2.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/296/2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;5、选择要关联的 Google Analytics 4 账户，然后点击关联&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;9.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/296/9.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;6、确认关联成功&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;10.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/296/10.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TikTok创建Pixel - Shopify</title>
+      <link>https://bg1188.github.io/posts/tiktok%E5%88%9B%E5%BB%BApixel-shopify/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/tiktok%E5%88%9B%E5%BB%BApixel-shopify/</guid>
+      <description>&lt;p&gt;打开shopify网站后台设置，选择应用和销售渠道，然后打开Shopify App Store&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/208/98.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;搜索安装TikTok应用&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/208/-1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-2.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/208/-2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-3.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/208/-3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;打开刚刚安装的TikTok应用，选择set up now&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-4.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/208/-4.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;关联TikTok For Business：输入注册BC使用的邮箱和密码，点击登录，进行关联&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-5.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/208/-5.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-6.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/208/-6.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-7.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/208/-7.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;下一步选择要关联的BC（广告账户所绑定的BC），点击Connect&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-8.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/208/-8.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;选择你的广告账户，点击Connect&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-9.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/208/-9.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;级别选择最多，然后点击确认&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-10.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/208/-10.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;最后点击完成设置，Pixel创建成功，并且关联了网站，事件追踪功能也已经生效；后续可以去广告账户里面发布广告&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-11.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/208/-11.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TikTok注册BC</title>
+      <link>https://bg1188.github.io/posts/tiktok%E6%B3%A8%E5%86%8Cbc/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/tiktok%E6%B3%A8%E5%86%8Cbc/</guid>
+      <description>&lt;p&gt;浏览器打开网址&lt;a href=&#34;https://business.tiktok.com/zh&#34;&gt;https://business.tiktok.com/zh&lt;/a&gt;，点击右上角立即注册&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/191/98.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;输入注册邮箱和密码并同意条款，点击下方注册&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/191/-1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;填写邮箱收到的验证码&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-2.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/191/-2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;由于电脑使用节点的差异下一步会分两种情况&lt;/strong&gt;（比如使用香港台湾节点会显示情况一，美国节点会显示情况二）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;情况一&lt;/strong&gt;：新建商务中心，输入商务中心名称（随便写，建议用公司名称或者品牌名称）和 时区（随便选，建议UCT+08），头像随意设置，然后点击创建&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-3.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/191/-3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;下一步到这个页面表明BC创建已完成，红框标注的地方就是BC ID&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-4.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/191/-4.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;情况二&lt;/strong&gt;：选择我是广告主，地区 公司名称 行业 币种随便写，商务中心名称（随便写，建议用公司名称或者品牌名称）和 时区（随便选，建议UCT+08），最后点左下方的&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;跳过&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;按钮，不要点创建&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-5.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/191/-5.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;点击跳过之后，选择创建基本账号&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-6.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/191/-6.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;下一步到这个页面表明BC创建已完成，红框标注的地方就是BC ID&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-7.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/191/-7.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如果已有BC，想注册第二个或者第三个BC，看下面步骤&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;打开链接&lt;a href=&#34;https://business.tiktok.com/select&#34;&gt;https://business.tiktok.com/select&lt;/a&gt;，点击右上角新建账号&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-8.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/191/-8.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;接下来步骤跟上面第一次创建步骤一致&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>主页添加管理员</title>
+      <link>https://bg1188.github.io/posts/%E4%B8%BB%E9%A1%B5%E6%B7%BB%E5%8A%A0%E7%AE%A1%E7%90%86%E5%91%98/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/%E4%B8%BB%E9%A1%B5%E6%B7%BB%E5%8A%A0%E7%AE%A1%E7%90%86%E5%91%98/</guid>
+      <description>&lt;p&gt;切换成主页身份，打开主页设置&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/108/98.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/108/-1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-2.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/108/-2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-3.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/108/-3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在上面输入框输入个人号邮箱或者个人号账户，添加管理员，然后被邀请的个人号会收到邀请通知，需要主动接受&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>共享主页到另一个BM</title>
+      <link>https://bg1188.github.io/posts/%E5%85%B1%E4%BA%AB%E4%B8%BB%E9%A1%B5%E5%88%B0%E5%8F%A6%E4%B8%80%E4%B8%AAbm/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/%E5%85%B1%E4%BA%AB%E4%B8%BB%E9%A1%B5%E5%88%B0%E5%8F%A6%E4%B8%80%E4%B8%AAbm/</guid>
+      <description>&lt;p&gt;打开主页设置，选择要共享的主页，选择指定合作伙伴&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/125/98.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/125/-1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;输入要分享的BM ID，打开权限，点击继续&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-2.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/125/-2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;根据提示，完成共享操作&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>创建 Google Analytics 4</title>
+      <link>https://bg1188.github.io/posts/%E5%88%9B%E5%BB%BA_google_analytics_4/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/%E5%88%9B%E5%BB%BA_google_analytics_4/</guid>
+      <description>&lt;p&gt;1、打开创建链接 &lt;a href=&#34;https://analytics.google.com/analytics/web/provision/#/provision/create&#34;&gt;https://analytics.google.com/analytics/web/provision/#/provision/create&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/292/1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;账号数据共享设置全选，然后点下一步&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;2.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/292/2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2、设置资源媒体名称 时区 和 币种&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;3.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/292/3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;3、设置行业类别和业务规模&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;4.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/292/4.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;4、选择业务目标&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;5.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/292/5.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;5、同意两条协议，然后点击接受&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;6.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/292/6.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;6、添加数据来源&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;7.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/292/7.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;7、填写网站地址和数据流名称，网站地址必须写完整地址，比如 &lt;a href=&#34;https://www.xxx.com&#34;&gt;www.xxx.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;8.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/292/8.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;8、然后点击下一步，继续返回首页，完成创建&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;9.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/292/9.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;10.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/292/10.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>创建BM</title>
+      <link>https://bg1188.github.io/posts/%E5%88%9B%E5%BB%BAbm/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/%E5%88%9B%E5%BB%BAbm/</guid>
+      <description>&lt;p&gt;打开以下链接点击创建账户&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://business.facebook.com/overview/&#34;&gt;https://business.facebook.com/overview/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/131/98.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;输入BM名称，个人姓名和邮箱，最后点击提交，完成创建&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/131/-1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意：BM名称建议用公司名称或者品牌名称，个人姓名无要求，邮箱建议用Gmail或者企业邮箱；如果提交有报错，换个人号创建BM&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>设置Google Ads转化衡量 - Shopify建站最新版</title>
+      <link>https://bg1188.github.io/posts/%E8%AE%BE%E7%BD%AEgoogle_ads%E8%BD%AC%E5%8C%96%E8%A1%A1%E9%87%8F-shopify%E5%BB%BA%E7%AB%99%E6%9C%80%E6%96%B0%E7%89%88/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/%E8%AE%BE%E7%BD%AEgoogle_ads%E8%BD%AC%E5%8C%96%E8%A1%A1%E9%87%8F-shopify%E5%BB%BA%E7%AB%99%E6%9C%80%E6%96%B0%E7%89%88/</guid>
+      <description>&lt;p&gt;1、打开shopify在线商店 – 偏好设置，选择设置Google&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;4.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/4.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2、选择安装Google &amp;amp; YouTube&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;3.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;3、选择关联Google 账号&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;选择登录Gmail账号（&lt;strong&gt;此账号必须是开户后绑定的Gmail邮箱&lt;/strong&gt;）&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;2.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;4、选择 Google Ads转化衡量下面的开始按钮&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;5.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/5.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;5、选择自己的谷歌广告账户，然后点击关联&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;7.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/7.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;6、最后点击完成设置&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;8.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/8.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;7、进入谷歌广告账户选择左侧菜单目标 - 转化 - 摘要，确认转化事件准确无误&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;10.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/10.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;到这里谷歌广告账户转化衡量设置完毕，后面可以开始上广告了&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>首次创建GMC以及配置流程</title>
+      <link>https://bg1188.github.io/posts/%E9%A6%96%E6%AC%A1%E5%88%9B%E5%BB%BAgmc%E4%BB%A5%E5%8F%8A%E9%85%8D%E7%BD%AE%E6%B5%81%E7%A8%8B/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://bg1188.github.io/posts/%E9%A6%96%E6%AC%A1%E5%88%9B%E5%BB%BAgmc%E4%BB%A5%E5%8F%8A%E9%85%8D%E7%BD%AE%E6%B5%81%E7%A8%8B/</guid>
+      <description>&lt;p&gt;1.打开GMC创建网址&lt;a href=&#34;https://www.google.com/intl/zh_tw/retail/&#34;&gt;https://www.google.com/intl/zh_tw/retail/&lt;/a&gt; ，然后点击“立即开始”&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;2.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2、填写网店链接，点击“继续”&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;1.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;3、划到页面下方 点击“前往 Merchant Center”&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;3.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;4、配置商家名称和地区，然后点击“前往 Merchant Center”（地区建议设置成中国）&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;4.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/4.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;5、进入GMC首页，依次配置六项设置&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;5.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/5.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;6、添加商家地址，写营业执照上的地址（英文）&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;6.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/6.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;7、验证电话号码，输入手机验证码进行验证&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;7.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/7.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;8.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/8.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;8、确认商家网店，选择添加HTML标记，按提示添加代码之后点击验证（可能会有延迟，建议加好代码等五分钟再点击验证）&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;9.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/9.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;10.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/10.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;11.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/11.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;9、添加配送方式，送货时长和运费 按自己实际情况填写&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;12.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/12.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;13.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/13.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;14.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/14.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;15.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/15.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;16.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/16.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;17.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/17.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;10、添加退货政策&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;18.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/18.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;19.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/19.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;11、设置销售税&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;20.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/20.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;12、检查一下除了添加商品，其他设置都已完成&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;21.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/21.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;13、添加商品，添加商品比较复杂需要点右上角帮助按钮，先把GMC界面切换回传统版界面；后续管理GMC也建议用传统版界面&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;31.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/31.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;32.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/32.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;14、点击“继续”，继续添加商品&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;33.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/33.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;选择一次添加多件商品&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;35.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/35.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;设置国家和语言，点击“继续”&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;36.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/36.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;填写Feed名称，选择Google表格方式上传商品&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;37.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/37.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;选择使用模板生成Google电子表格，然后创建Feed&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;38.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/38.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;点击“访问Google表格”&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;39.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/39.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;按照提示配置Google表格，一行一件商品，前期建议先填写3-5件商品，等GMC审核过后，再添加所有商品&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;40.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/40.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;表格配置好之后，点击“立即提取”&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;41.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/41.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;等待处理完成&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;42.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/42.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;商品添加成功&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;43.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/43.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;15、查看Google政策&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;44.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/44.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;16、开始最终审核&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;45.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/45.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;返回GMC首页，到此GMC创建配置流程完毕，等待GMC审核完成，可以在Google表格添加所有商品，然后开始投放广告（GMC首次审核大概率会被封一次，这是大概率事件，如果被封及时联系代理请求协助审核）&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;46.png&#34; loading=&#34;lazy&#34; src=&#34;https://bg1188.github.io/image/315/46.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

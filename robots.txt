@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bg1188.github.io/sitemap.xml
