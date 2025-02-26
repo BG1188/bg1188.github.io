@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://b2cat.com/sitemap.xml
