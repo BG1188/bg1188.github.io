@@ -4,15 +4,89 @@
     <title>B2cat</title>
     <link>https://b2cat.com/</link>
     <description>Recent content on B2cat</description>
-    <image>
-      <title>B2cat</title>
-      <url>https://b2cat.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://b2cat.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 14:08:14 +0800</lastBuildDate>
     <atom:link href="https://b2cat.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google目标客户匹配：精准触达客户，Shopify数据注入全指南</title>
+      <link>https://b2cat.com/9a57bf/</link>
+      <pubDate>Tue, 04 Mar 2025 14:08:14 +0800</pubDate>
+      <guid>https://b2cat.com/9a57bf/</guid>
+      <description>&lt;hr&gt;
+&lt;h3 id=&#34;第一部分目标客户匹配简介&#34;&gt;第一部分：目标客户匹配简介&lt;/h3&gt;
+&lt;h4 id=&#34;什么是目标客户匹配&#34;&gt;&lt;strong&gt;什么是目标客户匹配？&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;目标客户匹配是Google利用广告主的第一方数据（如用户邮箱、电话等），帮助广告主精准定位现有客户或潜在客户的广告功能。通过该功能，您可以：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;自定义细分受众群&lt;/strong&gt;：针对已完成购买、提交表单等行为的客户定向投放广告。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;提升广告效果&lt;/strong&gt;：结合Google AI智能出价，优化转化率和点击率。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;挖掘新客户&lt;/strong&gt;：通过高匹配率的数据扩展潜在用户群体。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;为何值得使用&#34;&gt;&lt;strong&gt;为何值得使用？&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;效果显著&lt;/strong&gt;：启用后，转化次数平均提升5.3%，点击率高出107%。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;第一方数据优势&lt;/strong&gt;：符合隐私政策趋势，且为AI优化提供关键训练数据。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;即时生效&lt;/strong&gt;：更新名单后，流量和转化平均提升17%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;专业建议&lt;/strong&gt;：在所有符合条件的账号中上传目标客户匹配名单，最大化信号质量，自动提升广告效果。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;第二部分数据注入方法--shopify篇&#34;&gt;第二部分：数据注入方法 | Shopify篇&lt;/h3&gt;
+&lt;h4 id=&#34;通过shopify注入第一方数据&#34;&gt;&lt;strong&gt;通过Shopify注入第一方数据&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;若您的客户数据存储在Shopify中，可通过以下步骤快速同步至Google Ads，创建目标客户匹配名单。&lt;/p&gt;
+&lt;h4 id=&#34;前提条件&#34;&gt;&lt;strong&gt;前提条件&lt;/strong&gt;&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;安装Shopify应用商店中的 &lt;strong&gt;Google &amp;amp; YouTube 应用&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;使用 &lt;strong&gt;Google Ads普通账号&lt;/strong&gt;（非经理账号MCC）。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;操作步骤&#34;&gt;&lt;strong&gt;操作步骤&lt;/strong&gt;&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;关联Shopify与Google Ads&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;进入Google Ads账号，点击右上角 &lt;strong&gt;“工具”图标&lt;/strong&gt; → &lt;strong&gt;“数据管理器”&lt;/strong&gt; → &lt;strong&gt;“关联产品”&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;搜索并选择 &lt;strong&gt;“Shopify”&lt;/strong&gt; → 点击 &lt;strong&gt;“直接连接”&lt;/strong&gt; → &lt;strong&gt;“继续”&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;安装Google &amp;amp; YouTube应用（如未完成）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;若未安装应用，系统将提示跳转至Shopify后台安装。&lt;/li&gt;
+&lt;li&gt;安装后返回数据管理器，关联您的Google Ads账号。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;选择受众群体名单&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在用例中选择 &lt;strong&gt;“受众群体”&lt;/strong&gt; → 阅读并接受数据政策 → 点击 &lt;strong&gt;“继续”&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;从Shopify现有名单中选择目标群体（如 &lt;strong&gt;“所有转化者”&lt;/strong&gt;），或通过自定义过滤条件（如 &lt;strong&gt;“近7天转化用户”&lt;/strong&gt;）细分受众。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;映射数据字段&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;将Shopify字段（如邮箱、姓名）与Google目标字段匹配 → 点击 &lt;strong&gt;“继续”&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;完成设置&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;为连接命名 → 确认政策合规 → 点击 &lt;strong&gt;“保存并继续”&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;在 &lt;strong&gt;“工具 &amp;gt; 数据管理器”&lt;/strong&gt; 中检查新创建的细分受众群。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;注意事项&#34;&gt;&lt;strong&gt;注意事项&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;每次导入前需更新数据，确保名单实时有效。&lt;/li&gt;
+&lt;li&gt;若需导入多个名单，需重复流程单独创建连接。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;示例截图&#34;&gt;&lt;strong&gt;示例截图&lt;/strong&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Google Ads数据管理器关联Shopify操作流程图&lt;/strong&gt;&lt;br&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/9a57bf/1.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Bing设置转化追踪 - Shopify</title>
       <link>https://b2cat.com/b168e3/</link>
