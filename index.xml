@@ -34,7 +34,7 @@
 &lt;hr&gt;
 &lt;h3 id=&#34;获取商品目录-url&#34;&gt;&lt;strong&gt;获取商品目录 URL&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;你需要获取一个指向商品 Feed 的 URL，有两种方式：&lt;/p&gt;
-&lt;h5 id=&#34;方式一通过google在线表格生成feed-url&#34;&gt;方式一：通过Google在线表格生成Feed URL&lt;/h5&gt;
+&lt;h4 id=&#34;方式一通过google在线表格生成feed-url&#34;&gt;方式一：通过Google在线表格生成Feed URL&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;按照Criteo要求创建商品Google在线表格&lt;/p&gt;
@@ -46,7 +46,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;选择文件- 共享 -发布到网络&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/2db775/10.png&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;文档类型选择逗号分隔值(.csv)，勾选内容有改动时自动重新发布&lt;/p&gt;
@@ -57,7 +57,7 @@
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/2db775/12.png&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h5 id=&#34;方式二使用第三方平台插件生成feed-url&#34;&gt;方式二：使用第三方平台插件生成Feed URL&lt;/h5&gt;
+&lt;h4 id=&#34;方式二使用第三方平台插件生成feed-url&#34;&gt;方式二：使用第三方平台插件生成Feed URL&lt;/h4&gt;
 &lt;p&gt;示例：Shopify安装Google shopping feed插件，可以自动生成网站所有产品的Feed Url，并且会自动更新&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/2db775/8.png&#34;&gt;&lt;/p&gt;</description>
     </item>
