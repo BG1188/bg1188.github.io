@@ -6,8 +6,61 @@
     <description>Recent content in Google教程 on B2cat</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Apr 2025 14:42:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 15:18:27 +0800</lastBuildDate>
     <atom:link href="https://b2cat.com/categories/google%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Criteo设置商品目录</title>
+      <link>https://b2cat.com/2db775/</link>
+      <pubDate>Tue, 22 Apr 2025 15:18:27 +0800</pubDate>
+      <guid>https://b2cat.com/2db775/</guid>
+      <description>&lt;p&gt;在这篇文章中，我们将介绍如何设置 Criteo 商品目录，包括从准备到获取目录 URL 的完整流程。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;1打开criteo账户左侧菜单选择产品目录---添加数据源&#34;&gt;1：打开Criteo账户，左侧菜单选择产品目录 - 添加数据源&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/2db775/1.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2选择产品数据源url&#34;&gt;2：选择产品数据源URL&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/2db775/2.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;3检查商品数据源设置并点击确定&#34;&gt;3：检查商品数据源设置并点击确定&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/2db775/3.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/2db775/4.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;4输入商品数据源url&#34;&gt;4：输入商品数据源URL&lt;/h3&gt;
+&lt;p&gt;确保您的URL遵循此种格式：https://mysite.com/myFeed.xml或sftp://mysite.com/feeds/myFile.csv&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/2db775/5.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;5确定之后criteo会自动抓取商品数据测试之后完成配置&#34;&gt;5：确定之后Criteo会自动抓取商品数据，测试之后完成配置&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/2db775/6.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;获取商品目录-url&#34;&gt;&lt;strong&gt;获取商品目录 URL&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;你需要获取一个指向商品 Feed 的 URL，有两种方式：&lt;/p&gt;
+&lt;h5 id=&#34;方式一通过google在线表格生成feed-url&#34;&gt;方式一：通过Google在线表格生成Feed URL&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;按照Criteo要求创建商品Google在线表格&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/2db775/7.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;点击表格右上角共享按钮，修改表格权限为知道链接的任何人（编辑者）&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/2db775/9.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;选择文件- 共享 -发布到网络&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;文档类型选择逗号分隔值(.csv)，勾选内容有改动时自动重新发布&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/2db775/11.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;发布成功之后会获得Feed Url（格式示例：https://docs.google.com/spreadsheets/d/e/xxx/pub?output=csv）&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/2db775/12.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;方式二使用第三方平台插件生成feed-url&#34;&gt;方式二：使用第三方平台插件生成Feed URL&lt;/h5&gt;
+&lt;p&gt;示例：Shopify安装Google shopping feed插件，可以自动生成网站所有产品的Feed Url，并且会自动更新&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/2db775/8.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Criteo设置商品目录 Shopify</title>
       <link>https://b2cat.com/cc5301/</link>
