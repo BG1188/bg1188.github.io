@@ -7,8 +7,18 @@
   <body>
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
     <script>
-      // 显式指定配置文件路径
-      CMS.init({ config: '/admin/config.yml' })
+      // 明确指定配置文件路径
+      CMS.init({
+        config: '/admin/config.yml',
+        backend: {
+          name: 'github',
+          repo: 'BG1188/bg1188.github.io',
+          branch: 'master',
+          auth_type: 'oauth',
+          client_id: 'Ov23lipej6YUaYcsFLo1'
+        }
+      });
     </script>
   </body>
 </html>
+
