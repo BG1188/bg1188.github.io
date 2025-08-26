@@ -1,0 +1,21 @@
+backend:
+  name: github
+  repo: BG1188/bg1188.github.io   # 替换成你的 GitHub 仓库
+  branch: master               # 或 gh-pages，取决于你的发布分支
+  auth_type: oauth
+  client_id: "Ov23lipej6YUaYcsFLo1"
+
+media_folder: "static/image"     # 上传图片存放路径
+public_folder: "/image"          # Markdown 中使用图片路径
+
+collections:
+  - name: "posts"
+    label: "教程文章"
+    folder: "content/posts"       # Hugo Markdown 文件存放路径
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "日期", name: "date", widget: "datetime"}
+      - {label: "标签", name: "tags", widget: "list"}
+      - {label: "正文", name: "body", widget: "markdown"}
