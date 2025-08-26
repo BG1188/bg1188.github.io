@@ -4,8 +4,13 @@
     <title>Posts on B2cat</title>
     <link>https://b2cat.com/posts/</link>
     <description>Recent content in Posts on B2cat</description>
-    <generator>Hugo -- 0.141.0</generator>
-    <language>en</language>
+    <image>
+      <title>B2cat</title>
+      <url>https://b2cat.com/favicon.ico</url>
+      <link>https://b2cat.com/favicon.ico</link>
+    </image>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>zh-cn</language>
     <lastBuildDate>Wed, 11 Jun 2025 16:20:52 +0800</lastBuildDate>
     <atom:link href="https://b2cat.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -88,7 +93,7 @@ analytics.subscribe(&amp;#34;checkout_completed&amp;#34;, (event) =&amp;gt; {
     }))
   });
 });
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;注意：先把上面代码中的**{{Pixel ID}}**换成第二步复制的那串字符，再把代码复制到像素代码中，最后再点击保存&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;mark&gt;注意：先把上面代码中的**{{Pixel ID}}**换成第二步复制的那串字符，再把代码复制到像素代码中，最后再点击保存&lt;/mark&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Criteo设置商品目录</title>
@@ -561,7 +566,7 @@ analytics.subscribe(&amp;#34;checkout_completed&amp;#34;, (event) =&amp;gt; {
 &lt;p&gt;&lt;img alt=&#34;-3.png&#34; loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/191/-3.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;下一步到这个页面表明BC创建已完成，红框标注的地方就是BC ID&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;-4.png&#34; loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/191/-4.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;情况二&lt;/strong&gt;：选择我是广告主，地区 公司名称 行业 币种随便写，商务中心名称（随便写，建议用公司名称或者品牌名称）和 时区（随便选，建议UCT+08），最后点左下方的&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;跳过&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;按钮，不要点创建&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;情况二&lt;/strong&gt;：选择我是广告主，地区 公司名称 行业 币种随便写，商务中心名称（随便写，建议用公司名称或者品牌名称）和 时区（随便选，建议UCT+08），最后点左下方的&lt;span style=&#34;background-color: #ffaaaa&#34;&gt;&lt;strong&gt;跳过&lt;/strong&gt;&lt;/span&gt;按钮，不要点创建&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;-5.png&#34; loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/191/-5.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;点击跳过之后，选择创建基本账号&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;-6.png&#34; loading=&#34;lazy&#34; src=&#34;https://b2cat.com/image/191/-6.png&#34;&gt;&lt;/p&gt;
